@@ -1,0 +1,8 @@
+If you factor a number:
+a = p_1^a_1 * p_2^a_2 * p_3^a_3 ...
+the number of divisors of a will be
+(a1+1)*(a2+1)*...*(aj+1)
+We want that number to be odd, and that only happens
+if all the factors are odd -> if all a_k are even
+-> a is a square number.
+A is square if sqr(a)*sqr(a)= a
